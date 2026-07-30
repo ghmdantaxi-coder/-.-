@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:311663641676:android:e4cf8001ceacd074b8a0e9",
         "android_client_info": {
-          "package_name": "com.example.uber_users_app"
+          "package_name": "com.ghamdan.taxi.user"
         }
       },
       "oauth_client": [],
@@ -29,7 +29,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:311663641676:android:27d895dee9ff623db8a0e9",
         "android_client_info": {
-          "package_name": "com.fahad.uberU"
+          "package_name": "com.ghamdan.taxi"
         }
       },
       "oauth_client": [],
