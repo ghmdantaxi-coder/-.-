@@ -36,10 +36,8 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
 
-    // الإضافة الخاصة بتجاوز مشكلة المترجم وتحديد إصدار Kotlin
     kotlinOptions {
         jvmTarget = '1.8'
-        freeCompilerArgs += ["-language-version", "1.8"]
     }
 
     defaultConfig {
