@@ -1,9 +1,9 @@
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_stripe/flutter_stripe.dart';
-import 'package:permission_handler/permission_handler.dart';
-import 'package:provider/provider.dart';
+import 'package:ghamdan_taxi_app/appInfo/app_info.dart';
+import 'package:ghamdan_taxi_app/appInfo/auth_provider.dart';
+import 'package:ghamdan_taxi_app/authentication/register_screen.dart';
+import 'package:ghamdan_taxi_app/global/global_var.dart';
+import 'package:ghamdan_taxi_app/pages/blocked_screen.dart';
+import 'package:ghamdan_taxi_app/pages/home_page.dart';
 import 'package:uber_users_app/appInfo/app_info.dart';
 import 'package:uber_users_app/appInfo/auth_provider.dart';
 import 'package:uber_users_app/authentication/register_screen.dart';
