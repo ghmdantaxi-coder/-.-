@@ -1,4 +1,4 @@
-name: ghamdan.taxi
+name: uber_users_app
 description: "A new Flutter project."
 publish_to: 'none'
 
@@ -41,12 +41,6 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^3.0.0
-
-dependency_overrides:
-  rounded_loading_button:
-    git:
-      url: https://github.com/mark-romig/rounded_loading_button.git
-      ref: main
 
 flutter:
   uses-material-design: true
